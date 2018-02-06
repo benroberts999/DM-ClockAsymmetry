@@ -60,7 +60,7 @@ sd=1.
 # Typical DM signal magnitude (chi_0)
 x0=1.0*sd
 # expected average rate PER SAMPLE:
-R0tau0=0.005
+R0tau0=0.010
 #DM object size/width (in km). Note: should be <<10**3
 #(OK if larger, but skew will be spuriously small, due to hidden d factor in x0)
 d=1.

@@ -10,6 +10,9 @@ _Statistical signatures of transient dark matter in precision measurement data_,
 B. M. Roberts & A. Derevianko
 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ### simulateDMclock.py [python3]
 
 Program simulates (white noise) atomic clock data [s(1)],

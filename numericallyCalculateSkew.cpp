@@ -178,7 +178,8 @@ int main(void){
     std::cout<<" .. ";
 
     //Loop over
-    for(double r0t0 = 0.0005; r0t0<=0.5; r0t0*=2.){
+    for(int ir=0; ir<num_steps; ir++){
+      double r0t0 = r0min*pow(dr0,ir);
       double k0=0;  //Normalisation (not used)
       double k1=0;  //Mean
       double k2=0;  //S.deviation [actually, variance]

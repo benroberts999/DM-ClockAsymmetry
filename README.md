@@ -10,10 +10,10 @@ _Statistical signatures of transient dark matter in precision measurement data_,
 B. M. Roberts & A. Derevianko
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/benroberts999/DM-ClockAssymetry/blob/master/LICENSE)
 
 
-### simulateDMclock.py [python3]
+## simulateDMclock.py [python3]
 
 Program simulates (white noise) atomic clock data [s(1)],
 and injects DM signals at random times, according to Poisson distribution.
@@ -48,7 +48,7 @@ Note: Just reutns for the MAX of the FFT - so not necisarily the correct
 frequency!
 
 
-### numericallyCalculateSkew [c++]
+## numericallyCalculateSkew [c++]
 
 Calculates the expected skew numerically, for a range of x0 and r0t0 values.
 Uses Gaussian monopole, and full standard halo model distributions.

@@ -6,7 +6,7 @@ Benjamin M. Roberts
 
 Companion code to paper:
 
-_Statistical signatures of transient dark matter in precision measurement data_,
+_Precision measurement noise asymmetry and its annual modulation as a dark matter signature_,
 B. M. Roberts & A. Derevianko
 
 
@@ -52,8 +52,6 @@ frequency!
 
 Calculates the expected skew numerically, for a range of x0 and r0t0 values.
 Uses Gaussian monopole, and full standard halo model distributions.
-
-Compile: g++ -fopenmp numericallyCalculateSkew.cpp -lm &&
 
 Values are saved to a text file, in form: x0 r0t0 skew
 Default filename: numericalSkew.txt

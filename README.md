@@ -7,8 +7,9 @@ Benjamin M. Roberts
 Companion code to paper:
 
 _Precision measurement noise asymmetry and its annual modulation as a dark matter signature_,
-B. M. Roberts & A. Derevianko
+B. M. Roberts & A. Derevianko, (2018)
 
+[![arXiv](https://img.shields.io/badge/arXiv-1803.00617%20-green.svg)](https://arxiv.org/abs/1803.00617)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/benroberts999/DM-ClockAssymetry/blob/master/LICENSE)
 
